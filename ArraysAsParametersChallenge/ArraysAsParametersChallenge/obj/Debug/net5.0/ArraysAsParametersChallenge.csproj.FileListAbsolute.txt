@@ -1,0 +1,15 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ref\ArraysAsParametersChallenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net5.0\ArraysAsParametersChallenge.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ref\ArraysAsParametersChallenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net5.0\ArraysAsParametersChallenge.genruntimeconfig.cache
